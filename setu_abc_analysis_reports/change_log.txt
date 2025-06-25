@@ -1,0 +1,26 @@
+Date : 10th March 2025
+Version : '1.3' (in __manifest__.py)
+Odoo Version : 18
+Done by : Mitrarajsinh Jadeja
+Changes : Solve DeprecationWarning of @api.model_create_multi
+
+Date : 9th Jan 2025
+Version : '1.2' (in __manifest__.py)
+Odoo Version : 18
+Done by : Shivam Pandya
+Tested By : Payal Kheradiya
+Changes : Remove compute and add domain in xml to filter
+
+Date : 6th Jan 2025
+Version : '1.1' (in __manifest__.py)
+Odoo Version : 18
+Done by : Mitrarajsinh Jadeja
+Tested By : Payal Kheradiya
+Changes : Fix the issue of alias error while generate report
+
+Date : 28th Nov 2024
+Version : '1.0' (in __manifest__.py)
+Odoo Version : 18
+Done by : Kinnari Tank
+Tested By : Payal Kheradiya
+Changes : ABC Analysis odoo 18 version app
